@@ -1,0 +1,21 @@
+- Select class screen
+- Let client reconnect during a game
+- Handle the error that occurs if the client types a wrong IP
+- Save function (for server only)
+- Pause (must warn all clients of pause and continue)
+
+Version 0.6
+- Client can now type server IP before connecting
+
+Version 0.5
+- Players can shoot
+- Players and monsters are briefly displayed with a red tint when damaged
+
+Version 0.4
+- Network code updates player & monster locations from server to clients
+
+Version 0.3
+- Monster generators
+- Monster movement, collision detection
+- Monsters (correctly) don't pile up
+- Player melee damage is applied
